@@ -10,13 +10,13 @@ The **ConvaAI Netflix Assistant** is an AI-powered chatbot designed to enhance t
 - **Enhanced Discovery**: Helps users explore new genres, trending shows, and hidden gems.
 - **Customizable Settings**: Users can refine recommendations based on their interests.
 
-## Releases
+## 🚀 Releases
 ### Latest Release: v1.0.0
 - Initial version with core content recommendation capabilities.
 - Supports personalized suggestions based on user preferences.
 - Integrated with Netflix India for an improved browsing experience.
 
-## Packages
+## 📦 Packages
 This project uses the following dependencies:
 - **Conva AI SDK** - AI-powered chatbot development
 - **Python (3.x)** - Backend development
